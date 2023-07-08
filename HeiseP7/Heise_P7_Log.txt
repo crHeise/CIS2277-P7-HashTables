@@ -1,0 +1,165 @@
+
+Log filename: Heise_P7_Log.txt
+
+File for filling the Hash Table: BJ_Persons2000.txt(2000 Persons)
+File for searching Hash Table: BJ_42PersonsToFind.txt(42 Persons)
+
+***Putting names into the Hash Table...
+
+***Results of Hash...
+
+Distribution:
+	Minimum List Length: 12
+	Maximum List Length: 31
+
+[0] 14, 0.70%	[1] 15, 0.75%	[2] 19, 0.95%	[3] 21, 1.05%	[4] 31, 1.55%	
+[5] 15, 0.75%	[6] 18, 0.90%	[7] 16, 0.80%	[8] 24, 1.20%	[9] 12, 0.60%	
+[10] 20, 1.00%	[11] 22, 1.10%	[12] 19, 0.95%	[13] 18, 0.90%	[14] 15, 0.75%	
+[15] 16, 0.80%	[16] 20, 1.00%	[17] 19, 0.95%	[18] 24, 1.20%	[19] 21, 1.05%	
+[20] 18, 0.90%	[21] 25, 1.25%	[22] 21, 1.05%	[23] 15, 0.75%	[24] 16, 0.80%	
+[25] 24, 1.20%	[26] 23, 1.15%	[27] 23, 1.15%	[28] 26, 1.30%	[29] 27, 1.35%	
+[30] 16, 0.80%	[31] 25, 1.25%	[32] 14, 0.70%	[33] 17, 0.85%	[34] 27, 1.35%	
+[35] 16, 0.80%	[36] 19, 0.95%	[37] 24, 1.20%	[38] 23, 1.15%	[39] 21, 1.05%	
+[40] 23, 1.15%	[41] 30, 1.50%	[42] 16, 0.80%	[43] 15, 0.75%	[44] 18, 0.90%	
+[45] 23, 1.15%	[46] 19, 0.95%	[47] 24, 1.20%	[48] 13, 0.65%	[49] 15, 0.75%	
+[50] 22, 1.10%	[51] 21, 1.05%	[52] 17, 0.85%	[53] 14, 0.70%	[54] 18, 0.90%	
+[55] 18, 0.90%	[56] 21, 1.05%	[57] 28, 1.40%	[58] 28, 1.40%	[59] 14, 0.70%	
+[60] 14, 0.70%	[61] 20, 1.00%	[62] 21, 1.05%	[63] 22, 1.10%	[64] 19, 0.95%	
+[65] 24, 1.20%	[66] 21, 1.05%	[67] 20, 1.00%	[68] 22, 1.10%	[69] 20, 1.00%	
+[70] 15, 0.75%	[71] 22, 1.10%	[72] 28, 1.40%	[73] 23, 1.15%	[74] 21, 1.05%	
+[75] 26, 1.30%	[76] 12, 0.60%	[77] 31, 1.55%	[78] 18, 0.90%	[79] 15, 0.75%	
+[80] 16, 0.80%	[81] 20, 1.00%	[82] 17, 0.85%	[83] 15, 0.75%	[84] 18, 0.90%	
+[85] 28, 1.40%	[86] 17, 0.85%	[87] 18, 0.90%	[88] 17, 0.85%	[89] 12, 0.60%	
+[90] 23, 1.15%	[91] 15, 0.75%	[92] 18, 0.90%	[93] 21, 1.05%	[94] 18, 0.90%	
+[95] 25, 1.25%	[96] 22, 1.10%	[97] 19, 0.95%	[98] 29, 1.45%	[99] 22, 1.10%	
+
+***Searching the Hash Table...
+
+Searching for: FIELDS, STACEY: May 11, 1938
+Found: FIELDS, STACEY: May 11, 1938
+
+Searching for: LITTLE, LANCE: July 20, 2004
+Found: LITTLE, LANCE: July 20, 2004
+
+Searching for: KIM, LOUISE: May 6, 1986
+Found: KIM, LOUISE: May 6, 1986
+
+Searching for: HARVEY, JON: July 5, 1976
+Found: HARVEY, JON: July 5, 1976
+
+Searching for: BROWN, LENA: May 7, 1935
+Found: BROWN, LENA: May 7, 1935
+
+Searching for: NELSON, DENNIS: February  7, 1984
+Found: NELSON, DENNIS: February  7, 1984
+
+Searching for: BURKE, PAULINE: August 18, 1999
+Found: BURKE, PAULINE: August 18, 1999
+
+Searching for: SCOTT, DIANNE: April 11, 1997
+Found: SCOTT, DIANNE: April 11, 1997
+
+Searching for: MILLS, WADE: October 18, 1981
+Found: MILLS, WADE: October 18, 1981
+
+Searching for: LAWSON, TIM: August 28, 1930
+Not Found
+
+Searching for: BARNES, DEREK: April 20, 1969
+Found: BARNES, DEREK: April 20, 1969
+
+Searching for: BAILEY, MARY: September 19, 1919
+Not Found
+
+Searching for: HART, DIANNE: September 28, 1958
+Found: HART, DIANNE: September 28, 1958
+
+Searching for: CAMPBELL, THEODORE: November 16, 1972
+Found: CAMPBELL, THEODORE: November 16, 1972
+
+Searching for: JONES, DAISY: July 8, 1981
+Found: JONES, DAISY: July 8, 1981
+
+Searching for: JOHNSTON, JIM: October 9, 1956
+Found: JOHNSTON, JIM: October 9, 1956
+
+Searching for: ORTIZ, DELORES: May 6, 1988
+Not Found
+
+Searching for: KIM, LOUISE: September 20, 1931
+Not Found
+
+Searching for: MILLS, RENEE: October 18, 1981
+Not Found
+
+Searching for: JOHNSTON, JIM: November 9, 1956
+Not Found
+
+Searching for: PIERCE, CALVIN: July 15, 1975
+Not Found
+
+Searching for: KRALC, CATHY: November 28, 2004
+Not Found
+
+Searching for: DAVIS, ANTONIO: November 4, 1961
+Not Found
+
+Searching for: BURTON, CHESTER: April 2, 1925
+Not Found
+
+Searching for: CARR, JUDY: August 7, 1982
+Found: CARR, JUDY: August 7, 1982
+
+Searching for: ANDERSON, TED: January 8, 2000
+Found: ANDERSON, TED: January 8, 2000
+
+Searching for: ROBERTSON, WILLIAM: December 24, 1946
+Found: ROBERTSON, WILLIAM: December 24, 1946
+
+Searching for: NGUYEN, PENNY: September 4, 1973
+Found: NGUYEN, PENNY: September 4, 1973
+
+Searching for: HARVEY, JON: July 5, 1956
+Not Found
+
+Searching for: AMAM, HANNAH: April 21, 1982
+Not Found
+
+Searching for: BURKE, PAULINE: June 25, 2000
+Not Found
+
+Searching for: GRAY, ANTHONY: November 3, 1949
+Found: GRAY, ANTHONY: November 3, 1949
+
+Searching for: KIM, CHRISTINE: October 29, 1969
+Found: KIM, CHRISTINE: October 29, 1969
+
+Searching for: RAY, ANTONIO: May 9, 1936
+Found: RAY, ANTONIO: May 9, 1936
+
+Searching for: SCHMIDT, ELSIE: September 27, 1935
+Found: SCHMIDT, ELSIE: September 27, 1935
+
+Searching for: PIERCE, CALVIN: July 15, 1976
+Found: PIERCE, CALVIN: July 15, 1976
+
+Searching for: LAWSON, TIM: June 2, 1957
+Found: LAWSON, TIM: June 2, 1957
+
+Searching for: TERRY, FRANCES: August 19, 1935
+Found: TERRY, FRANCES: August 19, 1935
+
+Searching for: FIELDS, STACEY: July 12, 1938
+Not Found
+
+Searching for: MYERS, DANIEL: June 23, 1946
+Not Found
+
+Searching for: NEAL, KAREN: November 14, 1995
+Found: NEAL, KAREN: November 14, 1995
+
+Searching for: OLSON, ALAN: November 3, 1966
+Found: OLSON, ALAN: November 3, 1966
+
+
+End log file.
